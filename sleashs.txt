@@ -1,0 +1,26 @@
+im bhavish im initializing git commands
+
+week-5 CND
+git commands
+1  sudo su
+2 yum install git -y
+3 mkdir directory name
+4 cd directory name
+5 git init master
+6 nano filename.txt
+7 git config --global user.name "name"
+8 git config --global user.email "mail"
+9 git config --list 
+10 now create the git repository in GitHub and copy the url 
+11 git remote add origin (paste the url) 
+12 git add file name
+13 git commit -m "file commit"
+14 git branch -M main
+15 git push -u origin main
+16 enter the GitHub  user name
+17 now generate the password in the GitHub and paste it in the password
+18 git pull origin main
+19 vi file name 
+20 to exit vi command press escape and :q
+
+
